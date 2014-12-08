@@ -1,0 +1,31 @@
+{
+  "name": "parse-connection-args",
+  "version": "1.0.0",
+  "description": "Parse host, port and/or path arguments for listen and connect methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests.js"
+  },
+  "author": "Tim <tim.hudson15@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "dependencies": {
+    "tape": "^3.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timhudson/parse-connection-args.git"
+  },
+  "keywords": [
+    "parse",
+    "arguments",
+    "listen",
+    "connect"
+  ],
+  "bugs": {
+    "url": "https://github.com/timhudson/parse-connection-args/issues"
+  },
+  "homepage": "https://github.com/timhudson/parse-connection-args"
+}
