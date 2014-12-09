@@ -1,6 +1,6 @@
 {
   "name": "parse-connection-args",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse host, port and/or path arguments for listen and connect methods",
   "main": "index.js",
   "scripts": {
